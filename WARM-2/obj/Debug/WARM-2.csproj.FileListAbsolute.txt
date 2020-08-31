@@ -1,0 +1,6 @@
+c:\users\ihc\documents\visual studio 2015\Projects\WARM-2\WARM-2\bin\Debug\WARM-2.exe.config
+c:\users\ihc\documents\visual studio 2015\Projects\WARM-2\WARM-2\bin\Debug\WARM-2.exe
+c:\users\ihc\documents\visual studio 2015\Projects\WARM-2\WARM-2\bin\Debug\WARM-2.pdb
+c:\users\ihc\documents\visual studio 2015\Projects\WARM-2\WARM-2\obj\Debug\WARM-2.exe
+c:\users\ihc\documents\visual studio 2015\Projects\WARM-2\WARM-2\obj\Debug\WARM-2.pdb
+c:\users\ihc\documents\visual studio 2015\Projects\WARM-2\WARM-2\obj\Debug\WARM-2.csprojResolveAssemblyReference.cache
